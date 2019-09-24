@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject.exCode
+package com.ysyang.kotlinProject.exCode
 
 val data1 : Int = 10
 var data2 = 20

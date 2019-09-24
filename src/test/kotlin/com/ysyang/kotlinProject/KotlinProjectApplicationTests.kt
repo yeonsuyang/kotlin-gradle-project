@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject
+package com.ysyang.kotlinProject
 
 import org.junit.Test
 import org.junit.runner.RunWith

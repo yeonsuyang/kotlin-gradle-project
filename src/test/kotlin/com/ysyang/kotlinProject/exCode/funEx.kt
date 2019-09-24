@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject.exCode
+package com.ysyang.kotlinProject.exCode
 
 fun sum(a: Int, b: Int): Int {
     var sum = 0

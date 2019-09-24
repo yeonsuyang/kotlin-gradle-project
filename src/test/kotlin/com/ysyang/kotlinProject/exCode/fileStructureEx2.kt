@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject.exCode
+package com.ysyang.kotlinProject.exCode
 
 var sum = 0
 

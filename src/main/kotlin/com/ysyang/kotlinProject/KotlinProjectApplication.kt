@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject
+package com.ysyang.kotlinProject
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

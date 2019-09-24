@@ -1,4 +1,4 @@
-package com.ysyang.kotlinproject.exCode
+package com.ysyang.kotlinProject.exCode
 
 data class User(val no: Int, val name: String, val email: String)
 
