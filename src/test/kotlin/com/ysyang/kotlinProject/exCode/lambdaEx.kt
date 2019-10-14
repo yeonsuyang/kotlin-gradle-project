@@ -11,3 +11,5 @@ fun main(agrs: Array<String>) {
     listInts.map { it * it }
     //출력[1,4,9,16]
 }
+
+
